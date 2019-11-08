@@ -25,6 +25,9 @@ The shortest bill of materials ever: an ESP8266 D1mini board and a HC-SR04. That
 # Schematic
 ![](MIDI-theremin-link.png)
 
+# Auto Connection
+Find AutoConnectAp in WiFi and then select your Wi-Fi Network
+
 # AppleMIDI
 
 Original link for the Library
