@@ -26,6 +26,7 @@ The shortest bill of materials ever: an ESP8266 D1mini board and a HC-SR04. That
 - Ultrasonic Sensor https://components101.com/ultrasonic-sensor-working-pinout-datasheet
 
 # Schematic
+![](MIDI-theremin-link.png)
 
 # AppleMIDI
 
