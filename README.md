@@ -1,7 +1,4 @@
 # THEREMIN-Air
-THEREMIN-Air is made by ESP8266 with MIDI note message
-
-# Connect
 Open source wireless MIDI theremin controller.
 
 # Features
