@@ -1,4 +1,4 @@
-// THeREMIN-Air
+// THEREMIN-Air
 // Diego Parbuono
 
 #include <ESP8266WiFi.h>
